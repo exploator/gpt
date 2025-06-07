@@ -1,5 +1,6 @@
 # gpt
 
-This repository contains a simple personal website template written in HTML. The main page is `index.html` which can be used as a business card website. It includes placeholder fields for a name, email, and phone number, along with a gradient background.
+This repository contains a simple real-time currency converter written in HTML and JavaScript.
+The single page application `index.html` converts between Russian rubles, euros, U.S. dollars and Kazakhstani tenge using data from [exchangerate.host](https://exchangerate.host/).
 
-To view the site, open `index.html` in a web browser.
+Open `index.html` in a web browser to use the converter.
